@@ -16,3 +16,24 @@ A través de ese portal, los orcos invadieron Azeroth, dando inicio a la Primera
 
 ![ORCO](assets/orcos.jpg)
 🏹
+
+##Alchile que esos weyes no eran del todo malos
+
+*Los orcos no eran naturalmente malvados; muchos fueron víctimas de manipulación demoníaca.
+
+Después de varias guerras y la eventual destrucción parcial de Draenor (convirtiéndose en Terrallende / Outland), algunos orcos buscaron redención bajo el liderazgo de Thrall.
+
+![OrcoGif](assets/orcos.gif)
+
+---
+
+
+## Créditos y fuentes
+
+- Imágenes obtenidas de [Blizzard Entertainment](https://www.blizzard.com)
+- Información basada en la historia oficial de Warcraft y WoW.
+- Markdown y GitHub por facilitar la documentación colaborativa.
+
+---
+
+*¡Gracias por leer! Si te gustó, no olvides dejar una estrella ⭐ en el repositorio.*
