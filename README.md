@@ -14,5 +14,5 @@ Usando la energía de Draenor y la ayuda de Gul'dan, el brujo Medivh (manipulado
 -La Primera Guerra:
 A través de ese portal, los orcos invadieron Azeroth, dando inicio a la Primera Guerra, enfrentándose al reino humano de Stormwind.
 
-[!ORCO](assets/orcos.jpg)
+![ORCO](assets/orcos.jpg)
 🏹
